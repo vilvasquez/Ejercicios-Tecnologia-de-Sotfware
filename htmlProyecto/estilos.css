@@ -23,5 +23,8 @@ ul{
 }
 footer{
   
-    color: gainsboro;
+color: gainsboro;
+text-align: center;
+font-size: 30 px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
