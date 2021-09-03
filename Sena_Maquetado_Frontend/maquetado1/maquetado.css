@@ -1,0 +1,85 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+body{
+background-color: rgb(255, 255, 255);
+
+}
+
+#contenedor{
+     width: 1200px;
+     height: 1000px;
+      margin: 0.5em auto;
+      background-color: rgb(255, 255, 255);
+      padding: 0.5em;
+
+}
+
+#header {
+height: 20%;
+background-color: rgb(39, 63, 109);borde border-radius: 1m;
+padding: 1em;
+border-radius: 1em;
+}
+
+#nav{
+height: 10%;
+background-color: darkgoldenrod;
+border-radius: 1em;
+margin: 1em;
+
+}
+#contenido{
+
+    height: 50%;
+    background-color: darkseagreen;
+    border-radius: 1em;
+    margin: 1em;
+    
+}
+#footer{
+
+    height: 20%;
+    background-color: darkturquoise ;
+    border-radius: 1em;
+    margin: 1em;
+}
+#section{
+height: 95%;
+width: 65%;
+background-color: forestgreen;
+border-radius: 1em;
+float: left;
+margin: 0.5em;
+}
+
+#aside{
+
+    height: 95%;
+    width: 30%;
+    background-color: green;
+    border-radius: 1em;
+    float: right;
+    margin: 0.5em;
+}
+.articulo {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 96%;
+    height: 20%;
+    background: royalblue;
+    margin: 1em;
+    border-radius: 1em;
+
+}
+
+#footer{
+
+    width: 96%;
+    height: 11%;
+    background: rgb(32, 35, 44);
+    margin: 1em;
+    border-radius: 1em;
+}
