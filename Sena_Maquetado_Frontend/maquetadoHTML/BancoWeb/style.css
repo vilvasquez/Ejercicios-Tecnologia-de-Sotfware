@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(154, 186, 235);
+}
+
+header{
+   max-width: 1000px;
+   min-height: 130px;
+   background-color: darkgray;
+   margin: 0 auto;
+   border-radius: 20px 20px 0 0 ;
+   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#c5deea+0,8abbd7+31,066dab+100;Web+2.0+Blue+3D+%231 */
+background: #c5deea; /* Old browsers */
+background: -moz-linear-gradient(top,  #c5deea 0%, #8abbd7 31%, #066dab 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #c5deea 0%,#8abbd7 31%,#066dab 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #c5deea 0%,#8abbd7 31%,#066dab 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5deea', endColorstr='#066dab',GradientType=0 ); /* IE6-9 */
+
+}
+#logo {
+    width: 320px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#menu-h{
+    max-width: 1000px;
+    min-height: 50px;
+    background-color: #000;
+    margin: 0 auto;
+}
+#banner{
+       max-width: 1000px;
+   min-height: 250px;
+   background-color: rgb(71, 71, 71);
+   margin: 0 auto;
+}
+#contenedor{
+    max-width: 1000px;
+    min-height: 700px;
+    background-color: rgb(148, 148, 148);
+    margin: 0 auto;
+}
+#menu-v {
+    width: 300px;
+    min-height: 700px;
+    background-color: #ccc;
+    float:left;
+}
+#contenido {
+    width: 700px;
+    max-height: 700px;
+    background-color:#fff;
+    float: right;
+}
+
+footer {
+    max-width: 1000px;
+    min-height: 130px;
+    background-color: #000;
+    margin: 0 auto;
+    border-radius: 0 0 20px 20px ;
+
+
+}

@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+    
+    body{
+    background-color: rgb(255, 255, 255);
+    
+    }
+    
+    #contenedor{
+         width: 1200px;
+         height: 1000px;
+          margin: 0.5em auto;
+          background-color: rgb(255, 255, 255);
+          padding: 0.5em;
+    
+    }
+    
+    #header {
+    height: 20%;
+    background-color: rgb(39, 63, 109);borde border-radius: 1m;
+    padding: 1em;
+    border-radius: 1em;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#3b679e+0,2b88d9+50,207cca+51,7db9e8+100;Blue+Gloss+%232 */
+background: #3b679e; /* Old browsers */
+background: -moz-linear-gradient(top,  #3b679e 0%, #2b88d9 50%, #207cca 51%, #7db9e8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #3b679e 0%,#2b88d9 50%,#207cca 51%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #3b679e 0%,#2b88d9 50%,#207cca 51%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b679e', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+
+    }
+    
+    #nav{
+    height: 10%;
+    background-color: darkgoldenrod;
+    border-radius: 1em;
+    margin: 1em;
+    
+    }
+    #contenido{
+    
+        height: 50%;
+        background-color: darkseagreen;
+        border-radius: 1em;
+        margin: 1em;
+        
+    }
+    #footer{
+    
+        height: 20%;
+        background-color: darkturquoise ;
+        border-radius: 1em;
+        margin: 1em;
+    }
+    #section{
+    height: 95%;
+    width: 65%;
+    background-color: forestgreen;
+    border-radius: 1em;
+    float: left;
+    margin: 0.5em;
+    }
+    #aside{
+    
+        height: 95%;
+        width: 30%;
+        background-color: green;
+        border-radius: 1em;
+        float: right;
+        margin: 0.5em;
+    }
+    .articulo {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        width: 96%;
+        height: 20%;
+        background: royalblue;
+        margin: 1em;
+        border-radius: 1em;
+    
+    } 
+    #footer{
+    
+        width: 96%;
+        height: 11%;
+        background: rgb(32, 35, 44);
+        margin: 1em;
+        border-radius: 1em;
+    }
+    #logo{
+        width: 420px;
+        float: left;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    #menu-h {
+     max-width: 1000px;
+     min-height: 50px;
+     background-color: darkcyan;
+
+    }
+
+    #menu-h ul {
+    list-style: none;
+    display: flex;
+    }
+
+    #menu-h a{
+
+        color: darkslategray;
+        display: block;
+        padding: 20px;
+        text-decoration: royalblue ;
+        background: seashell;
+        border-radius: 50px;
+    }
+
+    
