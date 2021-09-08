@@ -88,6 +88,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
+  
 }
 
 h1, .h1 {
@@ -11200,3 +11201,50 @@ fieldset:disabled .btn {
   }
 }
 /*# sourceMappingURL=styles.css.map */
+.container1{
+  background-color: aqua;
+  border-radius: 20px;
+  border: 2px solid #0099CC;
+
+}
+
+.container2{
+  background-color: rgb(64, 187, 71);
+  border-radius: 20px;
+  border: 2px solid #0099CC;
+
+}
+.container3{
+  background-color: rgb(20, 31, 179);
+  border-radius: 20px;
+  border: 2px solid #0099CC;
+
+}
+.container4{
+  background-color: rgb(102, 1, 128);
+  border-radius: 20px;
+  border: 2px solid #0099CC;
+
+}
+.container5{
+  background-color: rgb(197, 96, 201);
+  border-radius: 20px;
+  border: 2px solid #0099CC;
+
+}
+.container6{
+  background-color: rgb(255, 0, 242);
+  border-radius: 20px;
+  border: 2px solid #0099CC;
+
+}
+.container7{
+  background-color: rgb(180, 12, 20);
+  border-radius: 20px;
+  border: 2px solid #0099CC;
+
+}
+
+
+
+
