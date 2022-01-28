@@ -5,7 +5,7 @@ Este repositorio es creado para entregar mis actividades teniendo en cuenta el f
 
 <p align="center">
 
-  <img src="https://github.com/vilvasquez/SenaFrontend/blob/main/43.png" width="350" alt="accessibility text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Copyleft.svg/220px-Copyleft.svg.png" width="350" alt="accessibility text">
 </p>
 
 ```
@@ -13,5 +13,3 @@ Este repositorio es creado para entregar mis actividades teniendo en cuenta el f
 make
 make install
 ```
-
-### HAPPY HACKING 
